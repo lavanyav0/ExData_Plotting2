@@ -67,7 +67,7 @@ str(data)
 
 Total PM2.5 Emissions have dropped 53%, from 7.3 million tons in 1999 to 3.5 million tons in 2008, although the drop from 2002 to 2005 was much less pronounced (3%)
 
-The R code for this base plot is in <https://github.com/lavanyav0/ExData_Plotting2/plot1.R>, and the output plot is in <https://github.com/lavanyav0/ExData_Plotting2/plot1.png>.
+The R code for this base plot is in <https://github.com/lavanyav0/ExData_Plotting2/blob/master/plot1.R>, and the output plot is in <https://github.com/lavanyav0/ExData_Plotting2/blob/master/plot1.png>.
 
 
 
@@ -115,7 +115,7 @@ dev.off()
 
 Total PM2.5 Emissions in Baltimore City have dropped 43%, from 3,274 tons in 1999 to 1,862 tons in 2008, but increased 26% from 2002 to 2005.
 
-The R code for this base plot is in <https://github.com/lavanyav0/ExData_Plotting2/plot2.R>, and the output plot is in <https://github.com/lavanyav0/ExData_Plotting2/plot2.png>.
+The R code for this base plot is in <https://github.com/lavanyav0/ExData_Plotting2/blob/master/plot2.R>, and the output plot is in <https://github.com/lavanyav0/ExData_Plotting2/blob/master/plot2.png>.
 
 
 
@@ -166,7 +166,7 @@ dev.off()
 
 Between 1999 and 2008, PM2.5 Emissions in Baltimore City dropped for three types (NONPOINT, ON-ROAD and NON-ROAD) but increased for one type (POINT).
 
-The R code for this ggplot2 is in <https://github.com/lavanyav0/ExData_Plotting2/plot3.R>, and the output plot is in <https://github.com/lavanyav0/ExData_Plotting2/plot3.png>.
+The R code for this ggplot2 is in <https://github.com/lavanyav0/ExData_Plotting2/blob/master/plot3.R>, and the output plot is in <https://github.com/lavanyav0/ExData_Plotting2/blob/master/plot3.png>.
 
 
 
@@ -232,7 +232,7 @@ dev.off()
 
 We filtered on the Source.Name column to identify sources related to coal combustion. If the string contained either **"Coal"** or **"Comb"**, it was classified as a coal combustion source. PM2.5 emissions due to coal combustion-related sources dropped 40% from 575,207 tons in 1999 to 343,979 tons in 2008.
 
-The R code for this ggplot2 is in <https://github.com/lavanyav0/ExData_Plotting2/plot4.R>, and the output plot is in <https://github.com/lavanyav0/ExData_Plotting2/plot4.png>.
+The R code for this ggplot2 is in <https://github.com/lavanyav0/ExData_Plotting2/blob/master/plot4.R>, and the output plot is in <https://github.com/lavanyav0/ExData_Plotting2/blob/master/plot4.png>.
 
 
 
@@ -286,7 +286,7 @@ dev.off()
 
 We filtered on the Source.Name column to identify motor vehicle sources. If the string contained either **"Motor"** or **"Veh"**, it was classified as a motor vehicle source. PM2.5 emissions due to motor vehicles sources in Baltimore dropped 75% from 347 tons in 1999 to 88 tons in 2008.
 
-The R code for this ggplot2 is in <https://github.com/lavanyav0/ExData_Plotting2/plot5.R>, and the output plot is in <https://github.com/lavanyav0/ExData_Plotting2/plot5.png>.
+The R code for this ggplot2 is in <https://github.com/lavanyav0/ExData_Plotting2/blob/master/plot5.R>, and the output plot is in <https://github.com/lavanyav0/ExData_Plotting2/blob/master/plot5.png>.
 
 
 
@@ -339,7 +339,7 @@ dev.off()
 
 We filtered on the Source.Name column to identify motor vehicle sources. If the string contained either **"Motor"** or **"Veh"**, it was classified as a motor vehicle source. The graph shows clearly that emissions in Los Angeles are much higher than in Baltimore (from 1054% in 1999 to 4642% higher in 2008). The graph also shows that PM2.5 emissions from motor vehicle sources increased 4% in Los Angeles from 1999 to 2008, while it decreased 75% in Baltimore over the same period.
 
-The R code for this ggplot2 is in <https://github.com/lavanyav0/ExData_Plotting2/plot6.R>, and the output plot is in <https://github.com/lavanyav0/ExData_Plotting2/plot6.png>.
+The R code for this ggplot2 is in <https://github.com/lavanyav0/ExData_Plotting2/blob/master/plot6.R>, and the output plot is in <https://github.com/lavanyav0/ExData_Plotting2/blob/master/plot6.png>.
 
 
 
